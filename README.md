@@ -12,7 +12,8 @@ Windows Forms Project for VP Course (C# Programming) by : Aleksandar Vasovski an
 
 Некои од поважните променливи и нивни дефиниции во коментари се следните:
 
-``` public partial class Main : Form
+``` c#
+public partial class Main : Form
 {
         //dali treba da se promeni goleminata na prozorecot
         public static bool resize;

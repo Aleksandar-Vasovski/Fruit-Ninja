@@ -1,0 +1,12 @@
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.exe.config
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.exe
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.pdb
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.csprojResolveAssemblyReference.cache
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.Main.resources
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.Properties.Resources.resources
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.csproj.GenerateResource.Cache
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.exe
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.pdb
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.SettingsForm.resources
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.HighscoresForm.resources
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.UserForm.resources

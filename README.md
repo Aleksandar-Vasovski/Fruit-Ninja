@@ -31,4 +31,11 @@ public partial class Main : Form
         public bool canClick;
         //lokacija na zacuvuvanje na sostojbata na igrata
         public string saveFile = Environment.CurrentDirectory + "\\save.txt";
-}```
+}
+```
+
+##3.1.1.Game
+
+```public class Game```
+
+Во оваа класа се чуваат главните податоци за една инстанца од играта (како треба да изгледа екранот, кои елемененти треба да се појавуваат, кои се условите за крај на играта и слично).

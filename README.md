@@ -7,3 +7,4 @@ Windows Forms Project for VP Course (C# Programming) by : Aleksandar Vasovski an
 
 #2. Упатство за користење
 #3. Претставување на проблемот
+##3.1. Податочни структури
